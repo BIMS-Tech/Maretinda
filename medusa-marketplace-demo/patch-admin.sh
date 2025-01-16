@@ -41,7 +41,6 @@ var MainLayout=()=>{
   }
   children.push(jsx14(Shell,{children:jsx14(MainSidebar,{})}));
   return jsx14("div",{children});
-};
 EOF
 )
 
